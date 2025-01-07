@@ -1,0 +1,24 @@
+env/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+db.sqlite3
+# Instance folder (contains sensitive data)
+instance/
+
+# Sensitive files
+gmail_credentials.json
+.env
+migrations
+token.json
+.env
+
+# Docker files
+*.log
+*.pid
+
+# Editor/IDE settings
+.vscode/
+.idea/
