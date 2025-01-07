@@ -5,8 +5,8 @@
 
 1. Clone the repository
    ```
-   https://github.com/YasinRafin/Django_Task
-   cd Registration_API
+   https://github.com/YasinRafin/Django_Task.git
+   cd Django_Task
    code .
    ``` 
 
